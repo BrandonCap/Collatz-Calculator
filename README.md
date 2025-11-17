@@ -54,4 +54,4 @@ Learn more about the Collatz Conjecture:
 
 - [Wikipedia: Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
 - [Numberphile Video](https://www.youtube.com/watch?v=5mFpVDpKX70)
-- [OEIS Sequence A006577](https://oeis.org/A006577)
+- [Veritasium Video](https://www.youtube.com/watch?v=094y1Z2wpJg)
